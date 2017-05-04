@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "26673486150",
+    "firebase_url": "https://fir-nic-4064f.firebaseio.com",
+    "project_id": "fir-nic-4064f",
+    "storage_bucket": "fir-nic-4064f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26673486150:android:77d4128d1277d106",
+        "android_client_info": {
+          "package_name": "com.example.titi.firebasenic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26673486150-rkutevoqrj4co97iniij3k5eobg2oeop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.titi.firebasenic",
+            "certificate_hash": "e314838052daa396531f78a6ab99af73a049ae31"
+          }
+        },
+        {
+          "client_id": "26673486150-hpno756pmd34nfr1ta4rrn9mhls9tli0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA91cZBCWZ2Mqx6wgvY8Ceak-Q_z1CJoFE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26673486150-hpno756pmd34nfr1ta4rrn9mhls9tli0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
